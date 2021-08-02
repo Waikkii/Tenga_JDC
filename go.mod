@@ -1,4 +1,4 @@
-module getJDCookie
+module JDC
 
 go 1.15
 
